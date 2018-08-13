@@ -1,0 +1,630 @@
+C:\Users\Joseph\source\repos\stpwomenssoccer2.0\stpwomenssoccer2.0\obj\Debug\stpwomenssoccer2.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\stpwomenssoccer2.0\stpwomenssoccer2.0\obj\Debug\stpwomenssoccer2.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\stpwomenssoccer2.0\stpwomenssoccer2.0\obj\Debug\stpwomenssoccer2.0.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2.0\stpwomenssoccer2.0\obj\Debug\stpwomenssoccer2.0.pdb
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csc.exe
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\ApplicationInsights.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\stpwomenssoccer2.0.dll.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\stpwomenssoccer2.0.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\stpwomenssoccer2.0.pdb
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csc.exe.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csc.rsp
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csi.exe
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csi.exe.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csi.rsp
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.AppContext.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Console.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\vbc.exe
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\vbc.exe.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\vbc.rsp
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Antlr3.Runtime.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.SqlServer.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.Web.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Newtonsoft.Json.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Owin.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Helpers.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Mvc.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Optimization.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Razor.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\WebGrease.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Helpers.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Mvc.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Optimization.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Razor.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Newtonsoft.Json.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Antlr3.Runtime.pdb
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.SqlServer.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.Web.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csproj.CopyComplete
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.0.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.0.pdb
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\MySql.Data.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\bin\mysql.data.entity.EF6.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\ApplicationInsights.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\stpwomenssoccer2.0.dll.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\stpwomenssoccer2.0.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\stpwomenssoccer2.0.pdb
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csc.exe
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csc.exe.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csc.rsp
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csi.exe
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csi.exe.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csi.rsp
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.AppContext.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Console.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.IO.Compression.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Claims.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.ValueTuple.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\vbc.exe
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\vbc.exe.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\vbc.rsp
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Antlr3.Runtime.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\EntityFramework.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\EntityFramework.SqlServer.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.Web.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\MySql.Data.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\mysql.data.entity.EF6.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Newtonsoft.Json.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Owin.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Helpers.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Mvc.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Optimization.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Razor.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\WebGrease.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Helpers.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Mvc.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Optimization.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Razor.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Newtonsoft.Json.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Antlr3.Runtime.pdb
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\EntityFramework.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\EntityFramework.SqlServer.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.Web.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csproj.CopyComplete
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.0.dll
+C:\Users\Joseph\source\repos\stpwomenssoccer2_good\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.0.pdb
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\ApplicationInsights.config
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\stpwomenssoccer2.0.dll.config
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\stpwomenssoccer2.0.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\stpwomenssoccer2.0.pdb
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csc.exe
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csc.exe.config
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csc.rsp
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csi.exe
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csi.exe.config
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\csi.rsp
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.AppContext.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Collections.Immutable.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Console.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Diagnostics.Process.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.IO.Compression.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.IO.Pipes.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Reflection.Metadata.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.AccessControl.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Claims.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Threading.Thread.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.ValueTuple.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Xml.XPath.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\vbc.exe
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\vbc.exe.config
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\vbc.rsp
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\VBCSCompiler.exe
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\roslyn\VBCSCompiler.exe.config
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Antlr3.Runtime.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\EntityFramework.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\EntityFramework.SqlServer.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.DependencyCollector.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.Web.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.WindowsServer.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.ApplicationInsights.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Google.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Web.Infrastructure.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\MySql.Data.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\mysql.data.entity.EF6.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Newtonsoft.Json.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Owin.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Helpers.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Mvc.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Optimization.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Razor.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.Deployment.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.Razor.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\WebGrease.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Helpers.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Mvc.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Optimization.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.Razor.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.Deployment.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Web.WebPages.Razor.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Newtonsoft.Json.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Antlr3.Runtime.pdb
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\EntityFramework.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\EntityFramework.SqlServer.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Google.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.DependencyCollector.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.WindowsServer.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.AI.Web.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csproj.CoreCompileInputs.cache
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csproj.CopyComplete
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.0.dll
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.0.pdb
+C:\sTp Soccer\stpwomenssoccer2_good\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csprojAssemblyReference.cache
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\ApplicationInsights.config
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\stpwomenssoccer2.0.dll.config
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\stpwomenssoccer2.0.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\stpwomenssoccer2.0.pdb
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csc.exe
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csc.exe.config
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csc.rsp
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csi.exe
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csi.exe.config
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csi.rsp
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.AppContext.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Collections.Immutable.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Console.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Diagnostics.Process.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.Compression.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.Pipes.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Reflection.Metadata.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.AccessControl.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Claims.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Threading.Thread.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.ValueTuple.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.XPath.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\vbc.exe
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\vbc.exe.config
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\vbc.rsp
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\VBCSCompiler.exe
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\VBCSCompiler.exe.config
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Antlr3.Runtime.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.SqlServer.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.DependencyCollector.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.Web.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.WindowsServer.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.ApplicationInsights.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Google.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Web.Infrastructure.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\MySql.Data.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\mysql.data.entity.EF6.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Newtonsoft.Json.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Owin.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Helpers.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Mvc.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Optimization.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Razor.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Deployment.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Razor.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\WebGrease.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Helpers.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Mvc.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Optimization.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Razor.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Deployment.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Razor.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Newtonsoft.Json.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Antlr3.Runtime.pdb
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.SqlServer.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Google.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.DependencyCollector.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.WindowsServer.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.Web.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csprojAssemblyReference.cache
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csproj.CoreCompileInputs.cache
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csproj.CopyComplete
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.0.dll
+C:\sTp Soccer\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.0.pdb
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csproj.CoreCompileInputs.cache
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.0.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.0.pdb
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\ApplicationInsights.config
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\stpwomenssoccer2.0.dll.config
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\stpwomenssoccer2.0.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\stpwomenssoccer2.0.pdb
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csc.exe
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csc.exe.config
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csc.rsp
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csi.exe
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csi.exe.config
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\csi.rsp
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.AppContext.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Collections.Immutable.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Console.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Diagnostics.Process.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.Compression.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.IO.Pipes.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Reflection.Metadata.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.AccessControl.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Claims.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Threading.Thread.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.ValueTuple.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.XPath.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\vbc.exe
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\vbc.exe.config
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\vbc.rsp
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\VBCSCompiler.exe
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\roslyn\VBCSCompiler.exe.config
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Antlr3.Runtime.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.SqlServer.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.DependencyCollector.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.Web.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.WindowsServer.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.ApplicationInsights.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Google.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Web.Infrastructure.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\MySql.Data.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\mysql.data.entity.EF6.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Newtonsoft.Json.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Owin.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Helpers.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Mvc.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Optimization.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Razor.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Deployment.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Razor.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\WebGrease.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Helpers.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Mvc.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Optimization.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.Razor.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Deployment.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Web.WebPages.Razor.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Newtonsoft.Json.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Antlr3.Runtime.pdb
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\EntityFramework.SqlServer.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Google.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.DependencyCollector.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.WindowsServer.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.AI.Web.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csproj.CopyComplete
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\AWSSDK.Core.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\AWSSDK.SimpleNotificationService.dll
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\AWSSDK.Core.pdb
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\AWSSDK.Core.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\AWSSDK.SimpleNotificationService.pdb
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\bin\AWSSDK.SimpleNotificationService.xml
+C:\STP\stpwomenssoccer2\stpwomenssoccer2\obj\Debug\stpwomenssoccer2.csprojAssemblyReference.cache

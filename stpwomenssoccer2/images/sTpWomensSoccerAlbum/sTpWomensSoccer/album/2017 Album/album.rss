@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2017 Album</title>
+   	<link>..</link>
+        <generator>jAlbum 16</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="Varsity/album.rss" title="Varsity" thumbnail="Varsity/thumbs/DSC_0998.JPG" thumbnailWidth="240" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="JV/album.rss" title="JV" thumbnail="JV/thumbs/DSC_0874.JPG" thumbnailWidth="240" thumbnailHeight="180" />
+        
+    </channel>
+</rss>

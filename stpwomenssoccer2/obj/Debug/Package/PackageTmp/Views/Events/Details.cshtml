@@ -1,0 +1,98 @@
+﻿@model stpwomenssoccer2.Models.EventModel
+
+<div class="col-sm-6 col-sm-offset-3 bg-primary" style="margin-bottom:120px;margin-top:25px;">
+    <h2>Event Details</h2>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EventId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EventId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.EventTypeId)
+        </dt>
+
+        <dd>
+            @Html.DisplayText("EventTypeId")
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Time)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Time)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EventName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EventName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TeamId)
+        </dt>
+
+        <dd>
+            @Html.DisplayText("TeamId")
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Result)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Result)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Expired)
+        </dt>
+
+        <dd>
+            @Html.CheckBoxFor(model => model.Expired)
+        </dd>
+    </dl>
+    <div class="text-right">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.EventId }) |
+        @if (Model.EventTypeId != 1)
+        {
+            @Html.ActionLink("Back to List", "Index")
+        }
+        else
+        {
+            @Html.ActionLink("Back to List", "Schedule")
+        }
+        <hr />
+    </div>
+</div>

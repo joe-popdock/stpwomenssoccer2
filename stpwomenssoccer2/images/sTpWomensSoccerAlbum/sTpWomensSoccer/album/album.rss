@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>sTpWomensSoccer</title>
+   	<link>.</link>
+        <generator>jAlbum 16</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+    	<jalbum:link rel="sub" href="2017%20Album/album.rss" title="2017 Album" thumbnail="2017%20Album/Varsity/thumbs/DSC_0998.JPG" thumbnailWidth="240" thumbnailHeight="180" />
+    	<jalbum:link rel="sub" href="2018%20Album/album.rss" title="2018 Album" />
+        
+    </channel>
+</rss>

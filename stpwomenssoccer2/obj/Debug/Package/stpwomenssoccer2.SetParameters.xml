@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Default Web Site/" />
+  <setParameter name="MySqlConnection-Web.config Connection String" value="server=stpwomenssoccer.csans0ptquzq.us-east-1.rds.amazonaws.com;port=3306;database=STPSOCCER;user=stpwomensoccer;password=StpTigers21" />
+</parameters>

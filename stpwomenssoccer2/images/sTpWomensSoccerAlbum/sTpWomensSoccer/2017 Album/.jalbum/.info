@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="9.0.4" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>lastFolderThumbCrop</string>
+   <boolean>true</boolean>
+  </void>
+  <void method="put">
+   <string>lastFolderThumbPath</string>
+   <string>2017 Album/Varsity/DSC_0998.JPG</string>
+  </void>
+  <void method="put">
+   <string>lastFolderImageSize</string>
+   <string>1600x240</string>
+  </void>
+  <void method="put">
+   <string>lastFolderThumbSize</string>
+   <string>600x420</string>
+  </void>
+  <void method="put">
+   <string>lastFolderImagePath</string>
+   <string>2017 Album/Varsity/DSC_0998.JPG</string>
+  </void>
+  <void method="put">
+   <string>lastFolderThumbName</string>
+   <string>2017 Album_Varsity_DSC_0998.jpg</string>
+  </void>
+  <void method="put">
+   <string>lastFolderThumbDims</string>
+   <string>472x354</string>
+  </void>
+ </object>
+</java>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="9.0.4" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>lastFolderThumbCrop</string>
+   <boolean>true</boolean>
+  </void>
+  <void method="put">
+   <string>lastFolderThumbPath</string>
+   <string>2017 Album/JV/DSC_0874.JPG</string>
+  </void>
+  <void method="put">
+   <string>lastFolderImageSize</string>
+   <string>1600x240</string>
+  </void>
+  <void method="put">
+   <string>lastFolderThumbSize</string>
+   <string>600x420</string>
+  </void>
+  <void method="put">
+   <string>firstCameraDate</string>
+   <long>1517619723000</long>
+  </void>
+  <void method="put">
+   <string>cameraDatesUpdatedDate</string>
+   <long>1529608092779</long>
+  </void>
+  <void method="put">
+   <string>lastFolderImagePath</string>
+   <string>2017 Album/JV/DSC_0874.JPG</string>
+  </void>
+  <void method="put">
+   <string>lastFolderThumbName</string>
+   <string>JV_DSC_0874.jpg</string>
+  </void>
+  <void method="put">
+   <string>lastCameraDate</string>
+   <long>1517621905000</long>
+  </void>
+  <void method="put">
+   <string>lastFolderThumbDims</string>
+   <string>472x354</string>
+  </void>
+ </object>
+</java>

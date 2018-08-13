@@ -1,0 +1,331 @@
+﻿@model stpwomenssoccer2.Models.Subscriber
+
+
+@{
+    ViewBag.Title = "STP Women's Soccer Booster Club";
+}
+
+
+@*<!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content bg-primary">
+                <div class="modal-header text-secondary">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title"><img src="~/images/womens_shield2.png" style="margin-right:20px" width="40" height="40">Subscription Status</h4>
+                </div>
+                <div class="modal-body text-center" style="font-weight:bold">
+                    <p>Your email has been successfully added to our Newsletter.  You will be receiving an email to confirm your registration.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal2" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content bg-primary">
+                <div class="modal-header text-secondary">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title"><img src="~/images/womens_shield2.png" style="margin-right:20px" width="40" height="40">Subscription Status</h4>
+                </div>
+                <div class="modal-body text-center" style="font-weight:bold">
+                    <p>You have successfully registered your phone number for text message updates.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal3" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content bg-primary">
+                <div class="modal-header text-secondary">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title"><img src="~/images/womens_shield2.png" style="margin-right:20px" width="40" height="40">Subscription Status</h4>
+                </div>
+                <div class="modal-body text-center" style="font-weight:bold">
+                    <p>Please see the error(s) on the subscription form and try again after making the appropriate corrections.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+
+        </div>
+    </div>*@
+
+<div class="container"></div>
+
+<div class="row text-primary col-sm-offset-1">
+
+    <div class="bg-primary col-sm-4" style="margin-bottom:100px">
+        <div class="text-center text-secondary">
+            <h4 style="font-weight:bold;">@ViewBag.clockTitle</h4>
+            <br />
+        </div>
+        <div class="text-center">
+            <div class="clock"></div>
+        </div>
+
+        <hr />
+        <div class="text-center text-secondary">
+            <h4 style="font-weight:bold;">Upcoming Events</h4>
+        </div>
+        <div class="list-group">
+
+            @*<div class="list-group-item list-group-item-action flex-column align-items-start active">
+            <h5>Booster Meeting</h5>
+            <small>Friday, July 29th</small>
+            <p class="mb-1">All parents and players of the upcoming season are invited.  We look forward to seeing and meeting ya'll.</p>
+        </div>
+        <hr />*@
+            <div class="list-group-item list-group-item-action flex-column align-items-start active">
+                <h5>1st Day Of School</h5>
+                <small>Thursday, August 16th 9:05AM</small>
+                <p class="mb-1">Show up, Be On Time, And Start the year off right!</p>
+            </div>
+            <hr />
+            <div class="text-center text-secondary">
+                <h4 style="font-weight:bold;">Facebook</h4>
+            </div>
+            <div id="fb-root"></div>
+            <script>
+                (function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.1&appId=222173411478083&autoLogAppEvents=1';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
+            <div class="fb-page" data-href="https://www.facebook.com/Stony-Point-High-School-Womens-Soccer-Boosters-1750041001917321/" data-tabs="timeline" data-width="323" data-height="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="false"><blockquote cite="https://www.facebook.com/Stony-Point-High-School-Womens-Soccer-Boosters-1750041001917321/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Stony-Point-High-School-Womens-Soccer-Boosters-1750041001917321/">Stony Point High School Women&#039;s Soccer Boosters</a></blockquote></div>
+
+            <hr />
+            <div class="text-center text-secondary">
+                <h4 style="font-weight:bold;">Instagram</h4>
+            </div>
+            <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BmV4xbLnmtA/?utm_source=ig_embed" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:33.33333333333333% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BmV4xbLnmtA/?utm_source=ig_embed" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Hey, KeKe, I&#39;m sorry, but this is how we do it at STP! Asst Principals CaRita Forte &amp; Teranika Odems show the packed gym floor of students how the school dance is done. Way to show your spirit ladies! @@StonyPointHS @@RoundRockISD #onefamily #onestreakstp</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/stpwomenssoccer/?utm_source=ig_embed" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> STP Women&#39;s Soccer</a> (@@stpwomenssoccer) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-08-11T14:29:21+00:00">Aug 11, 2018 at 7:29am PDT</time></p></div></blockquote>
+            <script async defer src="//www.instagram.com/embed.js"></script>
+            <script async defer src="//www.instagram.com/embed.js"></script>
+            <script async defer src="//www.instagram.com/embed.js"></script>
+            <script async defer src="//www.instagram.com/embed.js"></script>
+            <script async defer src="//www.instagram.com/embed.js"></script>
+            <script async defer src="https://www.instagram.com/embed.js"></script>
+            <hr />
+            <div class="text-center text-secondary">
+                <h4 style="font-weight:bold;">Twitter</h4>
+            </div>
+            <a class="twitter-timeline" data-width="323" data-height="500" data-theme="dark" href="https://twitter.com/sTpWomenSoccer?ref_src=twsrc%5Etfw">Tweets by sTpWomenSoccer</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+
+    </div>
+
+
+    <div class="col-sm-6" style="margin-top:-15px">
+        <div class="text-center bg-primary">
+            <h2 style="font-weight:800">STONY POINT HIGH SCHOOL</h2>
+            <h2 style="font-weight:800; margin-top:-15px;">WOMEN'S SOCCER</h2>
+            <h2 style="font-weight:800; margin-top:-15px;">BOOSTER CLUB</h2>
+            <br />
+            <h4 style="margin-left:25px; margin-right:25px">The Booster Club is a volunteer organization comprised of Stony Point parents and volunteers, who help maintain excellence for the Stony Point Women's Soccer program through financial support and event sponsorship. The financial support supplements the budget to provide the best equipment and training for our student-athletes. This money is obtained through Booster Club membership, event concession stands sales and fundraisers.</h4>
+            <br />
+        </div>
+
+        <div id="img-carousel" class="carousel slide" data-ride="carousel">
+
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#img-carousel" data-slide-to="0" class="active"></li>
+                @*<li data-target="#img-carousel" data-slide-to="1"></li>*@
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                <div class="item active">
+                    <a href="https://smile.amazon.com/ch/81-0786917" target="_blank"><img class="d-block img-fluid" src="~/images/amazon_smile.jpg" alt="Amazon Smile"></a>
+                </div>
+                @*<div class="item">
+                        <img class="d-block img-fluid w-100" src="~/images/meet_the_tiger_today.jpg" alt="Board Meeting">
+                    </div>*@
+            </div>
+
+            <!-- Controls -->
+            <a class="left carousel-control" href="#img-carousel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </a>
+            <a class="right carousel-control" href="#img-carousel" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+            </a>
+        </div>
+    </div>
+
+    @*<div class="col-sm-6">
+        <div class="text-secondary text-center bg-primary" style="padding-bottom:200px; padding-top:20px">
+            <h4>Sign up to receive updates regarding games and events with your email and/or phone number.</h4>
+            <br />
+            <div class="col-sm-6">
+                <div>
+                    @using (Html.BeginForm("Subscribe", "Home", FormMethod.Post))
+                    {
+                        @Html.ValidationSummary(true)
+                        @Html.TextBoxFor(model => Model.Email, new { @class = "col-sm-3 form-control", @placeholder = "Email Address" })
+                        @Html.ValidationMessageFor(model => Model.Email, "", new { @class = "text-danger" })
+                        @Html.TextBoxFor(model => Model.Phone, new { @class = "col-sm-3 form-control", @placeholder = "10-digit Phone(ex. 5125551234)" })
+                        @Html.ValidationMessageFor(model => Model.Phone, "", new { @class = "text-danger" })
+                        <button type="submit" class="btn" value="submit" style="font-weight:bold; background-color:#FFD700; color:#191970">Subscribe</button>
+                    }
+                </div>
+            </div>
+            <div class="col-sm-6" style="margin-bottom:20px">
+                <p>*Unsubscribe to emails by clicking the unsubscribe on the email and you can stop the text messages at anytime by responding to the text with "STOP".</p>
+            </div>
+        </div>
+    </div>*@
+
+</div>
+
+
+
+
+@*<div class="container bg-primary">
+        <div class="row">
+            <div class="container text-center text-secondary col-md-6 col-md-offset-3">
+                <h1 style="font-weight:bold;">Countdown To Meet The Tiger</h1>
+            </div>
+        </div>
+    </div>
+    <div class="container bg-primary">
+        <div class="row">
+            <div class="container text-center text-secondary col-md-6 col-md-offset-3">
+                <div class="clock" style="margin:2em; align-content:center;"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-md-12">
+                <div id="carousel" class="carousel slide" data-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="
+                                -item">
+                                <a href="https://smile.amazon.com/ch/81-0786917" target="_blank"><img class="d-block img-fluid w-100" src="~/images/amazon_smile.jpg"></a>
+                            </div>
+                        <div class="carousel-item active">
+                            <a href="" target="_blank"><img class="d-block img-fluid w-100" src="~/images/board_meeting.jpg"></a>
+                        </div>
+                        <div class="carousel-item">
+                                <img class="d-block img-fluid w-100" src="~/images/2.JPG">
+                                <div class="carousel-caption">
+                                    <h3>Second slide label</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block img-fluid w-100" src="~/images/3.JPG">
+                                <div class="carousel-caption">
+                                    <h3>Third slide label</h3>
+                                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block img-fluid w-100" src="~/images/4.JPG">
+                                <div class="carousel-caption">
+                                    <h3>Fourth slide label</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block img-fluid w-100" src="~/images/5.JPG">
+                                <div class="carousel-caption">
+                                    <h3>Fifth slide label</h3>
+                                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <img class="d-block img-fluid w-100" src="~/images/6.JPG">
+                                <div class="carousel-caption">
+                                    <h3>Sixth slide label</h3>
+                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                </div>
+                            </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>*@
+
+
+@section scripts {
+<script type="text/javascript">
+        var clock;
+
+        $(document).ready(function () {
+
+            // Grab the current date
+            var currentDate = new Date();
+
+            // Set some date in the future. In this case, it's always Jan 1
+            //var futureDate = new Date("Aug 16, 2018 09:05:00");
+            var futureDate = new Date("@ViewBag.clockDate");
+
+            // Calculate the difference in seconds between the future and current date
+            var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
+
+            if (diff < 0) {
+                diff = 0;
+            }
+
+            // Instantiate a coutdown FlipClock
+            clock = $('.clock').FlipClock(diff, {
+                clockFace: 'DailyCounter',
+                countdown: true
+
+            });
+        });
+
+        //Modal
+        var url = window.location.href;
+        if (url.includes("email=True")) {
+            $('#myModal').modal({ show: true });
+        };
+
+        //Modal
+        var url = window.location.href;
+        if (url.includes("sms=True")) {
+            $('#myModal2').modal({ show: true });
+        };
+
+        //Modal
+        var url = window.location.href;
+        if (url.includes("Subscribe2")) {
+            $('#myModal3').modal({ show: true });
+        };
+
+</script>
+}

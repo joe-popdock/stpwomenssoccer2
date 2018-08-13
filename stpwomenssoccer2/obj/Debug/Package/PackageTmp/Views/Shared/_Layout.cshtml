@@ -1,0 +1,179 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stony Point Women's Soccer</title>
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/compiled/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/Content/compiled/flipclock.css">
+
+</head>
+<body>
+    <div class="text-center" id="banner">
+        <div class="row">
+            <img src="~/images/womens_shield2.png" alt="STP WOMEN'S SOCCER" width="150" style="margin-bottom:25px">
+            @*<h1 style="font-weight:800">STONY POINT HIGH SCHOOL</h1>
+            <h1 style="font-weight:800; margin-top:-15px; margin-bottom:0px;">WOMEN'S SOCCER BOOSTER CLUB</h1>*@
+        </div>
+    </div>
+
+    @*<div id="text-carousel" class="carousel slide" data-ride="carousel">
+        <!-- Wrapper for slides -->
+        <div class="row embed-responsive" style="height:150px">
+            <div class="col-xs-offset-3 col-xs-6">
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <div>
+                            <div class="text-center">
+                                <h3 class="mb-1">Stony Point Summer Office Hours</h3>
+                                <h4>June 4th - July 27th</h4>
+                                <p class="mb-1">Open Monday through Thursday 8am to 5pm.  Closed for lunch 12:30pm - 1pm.</p>
+                                <small>Campus closed from June 26th - July 6th.</small>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div>
+                            <div class="text-center">
+                                <a href="~/images/board_meeting.jpg" target="_blank">
+                                    <h3 class="mb-1">Board Meeting</h3>
+                                    <h4>Friday, July 27th</h4>
+                                    <p class="mb-1">All parents and players of the upcoming soccer season are invited.  We look forward to seeing and meeting with ya'll.</p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div>
+                            <div class="text-center">
+                                <h3 class="mb-1">Meet The Tiger</h3>
+                                <h4>Friday, August 10th</h4>
+                                <p class="mb-1">Come by and visit the Stony Point Women's Soccer Booster table.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#text-carousel" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="right carousel-control" href="#text-carousel" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+    </div>*@
+
+    <nav class="navbar" style="border-width: 0 0 0 0; border-color:#191970; background-color:#191970">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse" style="background-color:#FFD700">
+                    <img src="~/images/menu_icon.png" width="40px"></img>
+                </button>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a class="nav-link active " style="font-weight:bold; color:#FFD700" href="@Url.Action("Index", "Home")"><i class="fa fa-home" style="padding-right:0.5em; color:#FFD700"></i>HOME</a>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" style="font-weight:bold; color:#FFD700" href="" data-toggle="dropdown"><i class="fa fa-futbol-o" style="padding-right:0.5em; color:#FFD700"></i>TEAMS<span class="caret"></span></a>
+                        <ul class="dropdown-menu" style="background-color:#191970">
+                            @*<li>
+                                <a style="color:#FFD700" href="@Url.Action("Coaches", "Home")"><i class="fa fa-id-card" style="padding-right:0.5em; color:#FFD700"></i>COACHES</a>
+                            </li>
+                            <li>
+                                <a style="color:#FFD700" href="@Url.Action("Varsity", "Home")"><i class="fa fa-id-card-o" style="padding-right:0.5em; color:#FFD700"></i>VARSITY</a>
+                            </li>
+                            <li>
+                                <a style="color:#FFD700" href="@Url.Action("JV", "Home")"><i class="fa fa-id-badge" style="padding-right:0.5em; color:#FFD700"></i>JUNIOR VARSITY</a>
+                            </li>*@
+                        </ul>
+                    </li>
+                    <li>
+                        <a style="font-weight:bold; color:#FFD700" href="@Url.Action("Schedule", "Events")"><i class="fa fa-calendar" style="padding-right:0.5em; color:#FFD700"></i>SCHEDULE</a>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" style="font-weight:bold; color:#FFD700" href="" data-toggle="dropdown"><i class="fa fa-camera" style="padding-right:0.5em; color:#FFD700"></i>MEDIA<span class="caret"></span></a>
+                        <ul class="dropdown-menu" style="background-color:#191970">
+                            @*<li>
+                                <a style="color:#FFD700" href="@Url.Action("News", "Home")"><i class="fa fa-newspaper-o" style="padding-right:0.5em; color:#FFD700"></i>IN THE NEWS</a>
+                            </li>*@
+                            <li>
+                                <a style="color:#FFD700" href="@Url.Action("Photos", "Home")"><i class="fa fa-photo" style="padding-right:0.5em; color:#FFD700"></i>PHOTOS</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a style="font-weight:bold; color:#FFD700" href="@Url.Action("Index", "Events")"><i class="fa fa-table" style="padding-right:0.5em; color:#FFD700"></i>EVENTS</a>
+                    </li>
+                    <li>
+                        <a style="font-weight:bold; color:#FFD700" href="@Url.Action("About", "Home")"><i class="fa fa-rocket" style="padding-right:0.5em; color:#FFD700"></i>BOOSTER CLUB</a>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" style="font-weight:bold; color:#FFD700; margin-right:50px" href="" data-toggle="dropdown"><i class="fa fa-folder-open" style="padding-right:0.5em; color:#FFD700"></i>FORMS<span class="caret"></span></a>
+                        <ul class="dropdown-menu" style="background-color:#191970">
+                            @*<li>
+                                <a style="color:#FFD700" href="@Url.Action("volunteer", "Home")"><i class="fa fa-hand-paper-o" style="padding-right:0.5em; color:#FFD700"></i>VOLUNTEER</a>
+                            </li>*@
+                            <li>
+                                <a style="color:#FFD700" a href="~/images/sponsors/SponsorshipFormRev1.pdf" target="blank"><i class="fa fa-building" style="padding-right:0.5em; color:#FFD700"></i>SPONSORSHIP</a>
+                            </li>
+                        </ul>
+                    </li>
+
+                    @Html.Partial("_LoginPartial")
+                </ul>
+
+            </div>
+        </div>
+    </nav>
+
+    <div class="parallax">
+        <div class="container body-content">
+            @RenderBody()
+        </div>
+
+        <footer>
+            <div class="navbar navbar-inverse navbar-fixed-bottom" style="border-width:10px 0 1px; border-color:#191970; background-color:#191970;">
+                <div class="container">
+                    <div class="row text-center">
+                        <div>
+                            <a href="https://www.facebook.com/Stony-Point-High-School-Womens-Soccer-Boosters-1750041001917321/" target="_blank" style="color:#FFD700">
+                                <i class="fa fa-fw fa-facebook fa-3x"></i>
+                            </a>
+                            <a href="https://twitter.com/sTpWomenSoccer" target="_blank" style="color:#FFD700">
+                                <i class="fa fa-fw fa-twitter fa-3x"></i>
+                            </a>
+                            <a href="https://www.instagram.com/stpwomenssoccer" target="_blank" style="color:#FFD700">
+                                <i class="fa fa-fw fa-instagram fa-3x"></i>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="text-center" style="color:#FFD700">
+                            <hr />
+                            <p>This website is maintained by the Stony Point High School Women's Soccer Booster Club and is
+                                not a part of Stony Point High School or Round Rock ISD. Neither Stony Point High School
+                                nor Round Rock ISD is responsible for the content or opinions within this
+                                website.
+                            </p>
+                            <p>© Copyright @DateTime.Now.Year Stony Point Women's Soccer Booster - All rights reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/flipclock")
+    @Scripts.Render("~/bundles/gallery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
