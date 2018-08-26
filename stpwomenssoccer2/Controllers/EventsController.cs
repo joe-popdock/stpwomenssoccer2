@@ -9,6 +9,7 @@ using System.Web.Mvc;
 using stpwomenssoccer2.CustomFilters;
 using stpwomenssoccer2.Models;
 
+
 namespace stpwomenssoccer2.Controllers
 {
     public class EventsController : Controller
@@ -67,9 +68,13 @@ namespace stpwomenssoccer2.Controllers
         [AuthLog(Roles = "Administrator")]
         public ActionResult Create()
         {
-            ViewBag.EventTypeId = new SelectList(db.EventTypes, "EventTypeId", "EventTypeName");
-            ViewBag.TeamId = new SelectList(db.Teams.ToList(), "TeamId", "TeamName");
-            return View();
+            EventModel model = new EventModel
+            {
+                EventTypeList = new SelectList(db.EventTypes, "EventTypeId", "EventTypeName"),
+                TeamList = new SelectList(db.Teams, "TeamId", "TeamName")
+            };
+            
+            return View(model);
         }
 
         // POST: Events/Create
@@ -78,10 +83,10 @@ namespace stpwomenssoccer2.Controllers
         [AuthLog(Roles = "Administrator")]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "EventTypeId,Date,Time,EventName,Location,Description,TeamId")] EventModel @event)
+        public ActionResult Create([Bind(Include = "EventId,EventTypeId,Date,Time,EventName,Location,TeamId,Result,Description,Expired")] EventModel @event)
         {
             //ViewBag.EventTypeId = new SelectList(db.EventTypes, "EventTypeId", "EventTypeName");
-            //ViewBag.TeamId = new SelectList(db.Teams.ToList(), "TeamId", "TeamName");
+            //ViewBag.TeamId = new SelectList(db.Teams, "TeamId", "TeamName");
 
             if (ModelState.IsValid)
             {

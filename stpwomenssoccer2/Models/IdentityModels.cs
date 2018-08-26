@@ -34,6 +34,8 @@ namespace stpwomenssoccer2.Models
         public virtual DbSet<EventClock> Clock { get; set; }
 
         public virtual DbSet<EventTypeModel> EventTypes { get; set; }
-        
+
+        public virtual DbSet<UpcomingEvent> UpcomingEvents { get; set; }
+
     }
 }

@@ -225,6 +225,7 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\Subscriber.cs" />
     <Compile Include="Models\TeamModel.cs" />
+    <Compile Include="Models\UpcomingEvent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
@@ -257,6 +258,7 @@
     <Content Include="images\board_meeting.jpg" />
     <Content Include="images\euro2020.jpg" />
     <Content Include="images\field-view.jpg" />
+    <Content Include="images\hat_creek.jpg" />
     <Content Include="images\marcos_pizza.png" />
     <Content Include="images\meet_the_tiger.jpg" />
     <Content Include="images\menu_icon.png" />
@@ -525,11 +527,13 @@
     <Content Include="Views\Role\Create.cshtml" />
     <Content Include="Views\Admin\Index.cshtml" />
     <Content Include="Views\Home\Photos.cshtml" />
+    <Content Include="Views\Home\EventCards.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="images\sTpWomensSoccerAlbum\sTpWomensSoccer\2018 Album\JV\.jalbum\" />
     <Folder Include="images\sTpWomensSoccerAlbum\sTpWomensSoccer\2018 Album\Varsity\.jalbum\" />
+    <Folder Include="Views\ImageBrowser\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />

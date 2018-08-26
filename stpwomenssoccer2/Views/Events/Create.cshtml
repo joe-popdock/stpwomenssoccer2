@@ -1,8 +1,5 @@
 ﻿@model stpwomenssoccer2.Models.EventModel
 
-@{ 
-    ViewBag.Title = "TeamList";
-}
 
 
 @using (Html.BeginForm())
@@ -26,8 +23,8 @@
     <div class="form-group">
         @Html.LabelFor(model => model.EventTypeId, htmlAttributes: new { @class = "control-label col-sm-3" })
         <div class="col-sm-8">
-            @Html.DropDownList("EventTypeId", null, "Select the type of the event", new { htmlAttributes = new { @class = "form-control" } })
-            @*@Html.ValidationMessageFor(model => model.EventTypeName)*@
+            @Html.DropDownListFor(model => model.EventTypeId, Model.EventTypeList, "Select the type of the event", new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.EventTypeId)
         </div>
     </div>
 
@@ -82,8 +79,8 @@
     <div class="form-group">
         @Html.LabelFor(model => model.TeamId, htmlAttributes: new { @class = "control-label col-sm-3" })
         <div class="col-sm-8">
-            @Html.DropDownList("TeamId", null, "Select a Team", new { htmlAttributes = new { @class = "form-control" } })
-            @*@Html.ValidationMessageFor(model => model.TeamName)*@
+            @Html.DropDownListFor(model => model.TeamId, Model.TeamList, "Select a Team", new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.TeamId)
         </div>
     </div>
 

@@ -15,7 +15,7 @@ namespace stpwomenssoccer2.Models
         public int EventId { get; set; }
         [DisplayName("Event Type")]
         public int EventTypeId { get; set; }
-        public IEnumerable<EventTypeModel> EventTypes { get; set; }
+        public IEnumerable<SelectListItem> EventTypeList { get; set; }
         [DisplayName("Date")]
         public string Date { get; set; }
         [DisplayName("Time")]
@@ -28,7 +28,7 @@ namespace stpwomenssoccer2.Models
         public string Description { get; set; }
         [DisplayName("Team")]
         public int TeamId { get; set; }
-        public IEnumerable<TeamModel> Teams { get; set; }
+        public IEnumerable<SelectListItem> TeamList { get; set; }
         [DisplayName("Result")]
         public string Result { get; set; }
         public bool Expired { get; set; }

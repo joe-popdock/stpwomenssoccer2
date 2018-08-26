@@ -1,75 +1,4 @@
-﻿@model stpwomenssoccer2.Models.Subscriber
-
-
-@{
-    ViewBag.Title = "STP Women's Soccer Booster Club";
-}
-
-
-@*<!-- Modal -->
-    <div class="modal fade" id="myModal" role="dialog">
-        <div class="modal-dialog">
-
-            <!-- Modal content-->
-            <div class="modal-content bg-primary">
-                <div class="modal-header text-secondary">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title"><img src="~/images/womens_shield2.png" style="margin-right:20px" width="40" height="40">Subscription Status</h4>
-                </div>
-                <div class="modal-body text-center" style="font-weight:bold">
-                    <p>Your email has been successfully added to our Newsletter.  You will be receiving an email to confirm your registration.</p>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-    <!-- Modal -->
-    <div class="modal fade" id="myModal2" role="dialog">
-        <div class="modal-dialog">
-
-            <!-- Modal content-->
-            <div class="modal-content bg-primary">
-                <div class="modal-header text-secondary">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title"><img src="~/images/womens_shield2.png" style="margin-right:20px" width="40" height="40">Subscription Status</h4>
-                </div>
-                <div class="modal-body text-center" style="font-weight:bold">
-                    <p>You have successfully registered your phone number for text message updates.</p>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                </div>
-            </div>
-
-        </div>
-    </div>
-
-
-    <!-- Modal -->
-    <div class="modal fade" id="myModal3" role="dialog">
-        <div class="modal-dialog">
-
-            <!-- Modal content-->
-            <div class="modal-content bg-primary">
-                <div class="modal-header text-secondary">
-                    <button type="button" class="close" data-dismiss="modal">&times;</button>
-                    <h4 class="modal-title"><img src="~/images/womens_shield2.png" style="margin-right:20px" width="40" height="40">Subscription Status</h4>
-                </div>
-                <div class="modal-body text-center" style="font-weight:bold">
-                    <p>Please see the error(s) on the subscription form and try again after making the appropriate corrections.</p>
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                </div>
-            </div>
-
-        </div>
-    </div>*@
+﻿@model IEnumerable<stpwomenssoccer2.Models.UpcomingEvent>
 
 <div class="container"></div>
 
@@ -87,20 +16,21 @@
         <hr />
         <div class="text-center text-secondary">
             <h4 style="font-weight:bold;">Upcoming Events</h4>
+            @if (User.IsInRole("Administrator"))
+            {
+            <button class="btn" style="font-weight:bold; background-color:#FFD700; color:#191970">@Html.ActionLink("Update Events", "EventCards")</button>
+            }
         </div>
         <div class="list-group">
 
-            @*<div class="list-group-item list-group-item-action flex-column align-items-start active">
-            <h5>Booster Meeting</h5>
-            <small>Friday, July 29th</small>
-            <p class="mb-1">All parents and players of the upcoming season are invited.  We look forward to seeing and meeting ya'll.</p>
-        </div>
-        <hr />*@
-            <div class="list-group-item list-group-item-action flex-column align-items-start active">
-                <h5>Back To School Night</h5>
-                <small>Monday, August 27th 6:30PM</small>
-                <p class="mb-1"></p>
-            </div>
+            @foreach (var item in Model)
+            {
+                <div class="list-group-item list-group-item-action flex-column active">
+                    <h5>@Html.DisplayFor(modelItem => item.CardTitle)</h5>
+                    <small>@Html.DisplayFor(modelItem => item.CardDate)</small>
+                </div>
+            }
+
             <hr />
             <div class="text-center text-secondary">
                 <h4 style="font-weight:bold;">Facebook</h4>
@@ -120,7 +50,8 @@
             <div class="text-center text-secondary">
                 <h4 style="font-weight:bold;">Instagram</h4>
             </div>
-            <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/BmV4xbLnmtA/?utm_source=ig_embed" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:33.33333333333333% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BmV4xbLnmtA/?utm_source=ig_embed" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Hey, KeKe, I&#39;m sorry, but this is how we do it at STP! Asst Principals CaRita Forte &amp; Teranika Odems show the packed gym floor of students how the school dance is done. Way to show your spirit ladies! @@StonyPointHS @@RoundRockISD #onefamily #onestreakstp</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/stpwomenssoccer/?utm_source=ig_embed" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> STP Women&#39;s Soccer</a> (@@stpwomenssoccer) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-08-11T14:29:21+00:00">Aug 11, 2018 at 7:29am PDT</time></p></div></blockquote>
+            <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/p/Bm6a_EbHkhP/?utm_source=ig_embed" data-instgrm-version="9" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/Bm6a_EbHkhP/?utm_source=ig_embed" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">Come join us at Hat Creek in Round Rock by the Dell Diamond for our Stony Point Women&#39;s Soccer Booster Club Spirit Night!</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A post shared by <a href="https://www.instagram.com/stpwomenssoccer/?utm_source=ig_embed" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;" target="_blank"> STP Women&#39;s Soccer</a> (@@stpwomenssoccer) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2018-08-25T19:00:59+00:00">Aug 25, 2018 at 12:00pm PDT</time></p></div></blockquote>
+            <script async defer src="//www.instagram.com/embed.js"></script>
             <script async defer src="//www.instagram.com/embed.js"></script>
             <script async defer src="//www.instagram.com/embed.js"></script>
             <script async defer src="//www.instagram.com/embed.js"></script>
@@ -161,9 +92,9 @@
                 <div class="item active">
                     <a href="https://smile.amazon.com/ch/81-0786917" target="_blank"><img class="d-block img-fluid" src="~/images/amazon_smile.jpg" alt="Amazon Smile"></a>
                 </div>
-                @*<div class="item">
-                        <img class="d-block img-fluid w-100" src="~/images/meet_the_tiger_today.jpg" alt="Board Meeting">
-                    </div>*@
+                <div class="item">
+                    <img class="d-block img-fluid w-100" src="~/images/hat_creek.jpg" alt="Board Meeting">
+                </div>
             </div>
 
             <!-- Controls -->
@@ -176,113 +107,11 @@
         </div>
     </div>
 
-    @*<div class="col-sm-6">
-        <div class="text-secondary text-center bg-primary" style="padding-bottom:200px; padding-top:20px">
-            <h4>Sign up to receive updates regarding games and events with your email and/or phone number.</h4>
-            <br />
-            <div class="col-sm-6">
-                <div>
-                    @using (Html.BeginForm("Subscribe", "Home", FormMethod.Post))
-                    {
-                        @Html.ValidationSummary(true)
-                        @Html.TextBoxFor(model => Model.Email, new { @class = "col-sm-3 form-control", @placeholder = "Email Address" })
-                        @Html.ValidationMessageFor(model => Model.Email, "", new { @class = "text-danger" })
-                        @Html.TextBoxFor(model => Model.Phone, new { @class = "col-sm-3 form-control", @placeholder = "10-digit Phone(ex. 5125551234)" })
-                        @Html.ValidationMessageFor(model => Model.Phone, "", new { @class = "text-danger" })
-                        <button type="submit" class="btn" value="submit" style="font-weight:bold; background-color:#FFD700; color:#191970">Subscribe</button>
-                    }
-                </div>
-            </div>
-            <div class="col-sm-6" style="margin-bottom:20px">
-                <p>*Unsubscribe to emails by clicking the unsubscribe on the email and you can stop the text messages at anytime by responding to the text with "STOP".</p>
-            </div>
-        </div>
-    </div>*@
-
 </div>
 
 
-
-
-@*<div class="container bg-primary">
-        <div class="row">
-            <div class="container text-center text-secondary col-md-6 col-md-offset-3">
-                <h1 style="font-weight:bold;">Countdown To Meet The Tiger</h1>
-            </div>
-        </div>
-    </div>
-    <div class="container bg-primary">
-        <div class="row">
-            <div class="container text-center text-secondary col-md-6 col-md-offset-3">
-                <div class="clock" style="margin:2em; align-content:center;"></div>
-            </div>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="row text-center">
-            <div class="col-md-12">
-                <div id="carousel" class="carousel slide" data-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="
-                                -item">
-                                <a href="https://smile.amazon.com/ch/81-0786917" target="_blank"><img class="d-block img-fluid w-100" src="~/images/amazon_smile.jpg"></a>
-                            </div>
-                        <div class="carousel-item active">
-                            <a href="" target="_blank"><img class="d-block img-fluid w-100" src="~/images/board_meeting.jpg"></a>
-                        </div>
-                        <div class="carousel-item">
-                                <img class="d-block img-fluid w-100" src="~/images/2.JPG">
-                                <div class="carousel-caption">
-                                    <h3>Second slide label</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block img-fluid w-100" src="~/images/3.JPG">
-                                <div class="carousel-caption">
-                                    <h3>Third slide label</h3>
-                                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block img-fluid w-100" src="~/images/4.JPG">
-                                <div class="carousel-caption">
-                                    <h3>Fourth slide label</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block img-fluid w-100" src="~/images/5.JPG">
-                                <div class="carousel-caption">
-                                    <h3>Fifth slide label</h3>
-                                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block img-fluid w-100" src="~/images/6.JPG">
-                                <div class="carousel-caption">
-                                    <h3>Sixth slide label</h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                </div>
-                            </div>
-                    </div>
-                    <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>*@
-
-
 @section scripts {
-<script type="text/javascript">
+    <script type="text/javascript">
         var clock;
 
         $(document).ready(function () {
@@ -327,5 +156,5 @@
             $('#myModal3').modal({ show: true });
         };
 
-</script>
+    </script>
 }

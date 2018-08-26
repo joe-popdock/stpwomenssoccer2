@@ -1,17 +1,10 @@
 ﻿@model IEnumerable<stpwomenssoccer2.Models.EventModel>
 
-@{
-    ViewBag.Title = "EVENTS & FUNDRAISERS";
-}
-
-<h2 class="text-primary">EVENTS &amp; FUNDRAISERS</h2>
-
-<p>
+<h2 class="text-primary bg-primary">EVENTS &amp; FUNDRAISERS</h2>
     @if (User.IsInRole("Administrator"))
     {
         <button class="btn" style="font-weight:bold; background-color:#FFD700; color:#191970">@Html.ActionLink("Create Event", "Create")</button>
     }
-</p>
 <table class="table bg-primary" style="margin-bottom:320px;">
     <tr>
         <th style="width: 96px;">
