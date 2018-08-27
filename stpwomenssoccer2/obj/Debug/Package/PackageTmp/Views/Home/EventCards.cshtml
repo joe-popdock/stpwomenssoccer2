@@ -1,0 +1,39 @@
+﻿@model IEnumerable<stpwomenssoccer2.Models.UpcomingEvent>
+
+<div class="text-primary bg-primary">
+    <h2>Event Cards</h2>
+
+    @if (User.IsInRole("Administrator"))
+    {
+        <button class="btn text-left" style="font-weight:bold; background-color:#FFD700; color:#191970; margin-bottom:10px">@Html.ActionLink("Create Card", "CreateCard")</button>
+    }
+</div>
+
+<table class="table bg-primary" style="margin-bottom:320px;">
+    <tr>
+        <th class="text-left" style="width: 250px;">
+            @Html.DisplayNameFor(model => model.CardDate)
+        </th>
+        <th class="text-left" style="width: 250px;">
+            @Html.DisplayNameFor(model => model.CardTitle)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="text-left" style="width: 250px;">
+                @Html.DisplayFor(modelItem => item.CardDate, new { htmlAttributes = new { @class = "text-left col-sm-3" } })
+            </td>
+            <td class="text-left" style="width: 250px;">
+                @Html.DisplayFor(modelItem => item.CardTitle, new { htmlAttributes = new { @class = "text-left col-sm-3" } })
+            </td>
+            <td class="text-left" style="width: 250px;">
+                @Html.ActionLink("Edit", "Edit", new { id = item.CardId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.CardId })
+            </td>
+        </tr>
+    }
+
+</table>
