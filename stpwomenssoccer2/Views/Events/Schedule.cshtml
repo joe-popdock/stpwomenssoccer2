@@ -1,29 +1,31 @@
 ﻿@model IEnumerable<stpwomenssoccer2.Models.EventModel>
 
-<p>
+<div class="text-primary bg-primary">
+    <h2 class="text-primary bg-primary" style="padding-top:10px">SCHEDULE</h2>
     @if (User.IsInRole("Administrator"))
-     {
-        <button class="btn" style="font-weight:bold; background-color:#FFD700; color:#191970">@Html.ActionLink("Create Game", "Create")</button>
-     }
-</p>
+    {
+        <button class="btn" style="font-weight:bold; background-color:#FFD700; color:#; margin-bottom:10px">@Html.ActionLink("Create Game", "Create")</button>
+    }
+</div>
+
 <table class="table bg-primary" style="margin-bottom:320px;">
     <tr>
-        <th>
+        <th class="text-left" style="width: 100px;">
             @Html.DisplayNameFor(model => model.Date)
         </th>
-        <th>
+        <th class="text-left" style="width: 100px;">
             @Html.DisplayNameFor(model => model.Time)
         </th>
-        <th>
+        <th class="text-left" style="width: 250px;">
             @Html.DisplayNameFor(model => model.EventName)
         </th>
-        <th>
+        <th class="text-left" style="width: 200px;">
             @Html.DisplayNameFor(model => model.Location)
         </th>
-        <th>
+        <th class="text-left" style="width: 150px;">
             @Html.DisplayNameFor(model => model.TeamId)
         </th>
-        <th>
+        <th class="text-left" style="width: 100px;">
             @Html.DisplayNameFor(model => model.Result)
         </th>
         <th></th>
@@ -31,22 +33,39 @@
 
 @foreach (var item in Model) {
     <tr>
-        <td>
+        <td class="text-left" style="width: 100px;">
             @Html.DisplayFor(modelItem => item.Date)
         </td>
-        <td>
+        <td class="text-left" style="width: 100px;">
             @Html.DisplayFor(modelItem => item.Time)
         </td>
-        <td>
+        <td class="text-left" style="width: 250px;">
             @Html.DisplayFor(modelItem => item.EventName)
         </td>
-        <td>
+        <td class="text-left" style="width: 200px;">
             @Html.DisplayFor(modelItem => item.Location)
         </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.TeamId)
+        <td class="text-left" style="width: 150px;">
+            @{
+                switch (item.TeamId)
+                {
+                    case 1: <text>
+                                <p>Varsity</p>
+                            </text>
+                    break;
+                    case 2: <text>
+                                <p>JV</p>
+                            </text>
+                    break;
+                    case 3: <text>
+                                <p>JV &amp; Varsity</p>
+                            </text>
+                    break;
+                }
+
+             }
         </td>
-        <td>
+        <td class="text-left" style="width: 100px;">
             @Html.DisplayFor(modelItem => item.Result)
         </td>
 

@@ -8,9 +8,13 @@ namespace stpwomenssoccer2.Models
     public class UpcomingEvent
     {
         [Key]
+        [DisplayName("ID")]
         public int CardId { get; set; }
+        [DisplayName("Card Date")]
         public string CardDate { get; set; }
+        [DisplayName("Card Title")]
         public string CardTitle { get; set; }
+        [DisplayName("Expired")]
         public bool Expired { get; set; }
     }
 }

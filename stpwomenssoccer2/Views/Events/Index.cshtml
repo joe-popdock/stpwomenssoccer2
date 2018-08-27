@@ -1,57 +1,61 @@
 ﻿@model IEnumerable<stpwomenssoccer2.Models.EventModel>
 
-<h2 class="text-primary bg-primary">EVENTS &amp; FUNDRAISERS</h2>
+<div class="text-primary bg-primary">
+    <h2 class="text-primary bg-primary" style="padding-top:10px">EVENTS &amp; FUNDRAISERS</h2>
     @if (User.IsInRole("Administrator"))
     {
-        <button class="btn" style="font-weight:bold; background-color:#FFD700; color:#191970">@Html.ActionLink("Create Event", "Create")</button>
+        <button class="btn" style="font-weight:bold; background-color:#FFD700; color:#191970; margin-bottom:10px">@Html.ActionLink("Create Event", "Create")</button>
     }
-<table class="table bg-primary" style="margin-bottom:320px;">
+</div>
+
+<table class="table bg-primary" style="margin-bottom:320px">
     <tr>
-        <th style="width: 96px;">
+        <th class="text-left" style="width: 100px;">
             @Html.DisplayNameFor(model => model.Date)
         </th>
-        <th>
+        <th class="text-left" style="width: 150px;">
             @Html.DisplayNameFor(model => model.Time)
         </th>
-        <th style="width: 150px;">
+        <th class="text-left" style="width: 200px;">
             @Html.DisplayNameFor(model => model.EventName)
         </th>
-        <th>
+        <th class="text-left" style="width: 200px;">
             @Html.DisplayNameFor(model => model.Location)
         </th>
-        <th>
+        <th class="text-left" style="width: 200px;">
             @Html.DisplayNameFor(model => model.Description)
         </th>
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Date)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Time)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.EventName)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Location)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Description)
-        </td>
-
-        @if (User.IsInRole("Administrator"))
-         {
-            <td>
-                @Html.ActionLink("Edit", "Edit", new { id = item.EventId }) |
-                @Html.ActionLink("Details", "Details", new { id = item.EventId }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.EventId })
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="text-left" style="width: 100px;">
+                @Html.DisplayFor(modelItem => item.Date)
             </td>
-         }
+            <td class="text-left" style="width: 150px;">
+                @Html.DisplayFor(modelItem => item.Time)
+            </td>
+            <td class="text-left" style="width: 200px;">
+                @Html.DisplayFor(modelItem => item.EventName)
+            </td>
+            <td class="text-left" style="width: 200px;">
+                @Html.DisplayFor(modelItem => item.Location)
+            </td>
+            <td class="text-left" style="width: 200px;">
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+
+            @if (User.IsInRole("Administrator"))
+            {
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.EventId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.EventId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.EventId })
+                </td>
+            }
         </tr>
-}
+    }
 
 </table>

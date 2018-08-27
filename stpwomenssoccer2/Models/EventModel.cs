@@ -29,8 +29,11 @@ namespace stpwomenssoccer2.Models
         [DisplayName("Team")]
         public int TeamId { get; set; }
         public IEnumerable<SelectListItem> TeamList { get; set; }
+        [DisplayName("Team Name")]
+        public TeamModel TeamName { get; set; }
         [DisplayName("Result")]
         public string Result { get; set; }
+        [DisplayName("Expired")]
         public bool Expired { get; set; }
     }
 }

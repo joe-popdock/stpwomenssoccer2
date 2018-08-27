@@ -52,6 +52,7 @@ namespace stpwomenssoccer2.Controllers
                                 where e.EventId == id
                                 select t.TeamName).FirstOrDefault();
             ViewBag.TeamId = new SelectList(db.Teams, "TeamId", "TeamName", TeamSelected);
+
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
